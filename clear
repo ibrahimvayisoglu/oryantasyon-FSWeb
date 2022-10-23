@@ -1,0 +1,29 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex 82daaba..a6b1534 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -7,15 +7,15 @@[m [mBu github repository, Git ve GitHub hesaplarınızın kurulumunda size yol göst[m
+ ## Adımlar[m
+ [m
+ - [x]  README’yi görüntüleme[m
+[31m-- [ ]  Bir GitHub hesabı oluşturma[m
+[31m-- [ ]  Komut satırı arayüzünü açma[m
+[31m-- [ ]  Kullanıcı Adı and E-mail oluşturma[m
+[31m-- [ ]  Kimlik doğrulamasının yapılması[m
+[31m-- [ ]  Repository’nin forklanması [m
+[31m-- [ ]  Repository’nin clone’lanması[m
+[31m-- [ ]  Repository’de değişiklik yapma[m
+[31m-- [ ]  Değişiklikleri Local olarak commit etmek[m
+[31m-- [ ]  Değişiklikleri GitHub'a Taşıma[m
+[32m+[m[32m- [x]  Bir GitHub hesabı oluşturma[m
+[32m+[m[32m- [x]  Komut satırı arayüzünü açma[m
+[32m+[m[32m- [x]  Kullanıcı Adı and E-mail oluşturma[m
+[32m+[m[32m- [x]  Kimlik doğrulamasının yapılması[m
+[32m+[m[32m- [x]  Repository’nin forklanması[m[41m [m
+[32m+[m[32m- [x]  Repository’nin clone’lanması[m
+[32m+[m[32m- [x]  Repository’de değişiklik yapma[m
+[32m+[m[32m- [x]  Değişiklikleri Local olarak commit etmek[m
+[32m+[m[32m- [x]  Değişiklikleri GitHub'a Taşıma[m
+ - [ ]  Standart İş Akışı[m
+ [m
+ [m
